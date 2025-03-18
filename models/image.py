@@ -12,4 +12,4 @@ class Image:
     alt_text: str
     height: str
     width: str
-    artwork: Optional[Artwork] = None # Many to One: may images - one artwork
+    artwork: Optional[Artwork] = None # Many to One: many images - one artwork
