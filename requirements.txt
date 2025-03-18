@@ -8,3 +8,4 @@ requests==2.31.0
 marshmallow==3.20.2
 Faker==22.5.1
 python-dateutil~=2.8.2
+dependency-injector~=4.46.0
